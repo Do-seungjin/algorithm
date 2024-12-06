@@ -19,5 +19,6 @@ public class 대소문자변환 {
 		Scanner sc = new Scanner(System.in);
 		String str = sc.next();
 		System.out.println(T.solution(str));
+		sc.close();
 	}
 }
