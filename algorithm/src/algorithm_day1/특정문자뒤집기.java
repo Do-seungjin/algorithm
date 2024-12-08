@@ -25,7 +25,7 @@ public class 특정문자뒤집기 {
 		}
 		answer=String.valueOf(s);
 		
-		return answer;
+		return answer;	
 	}
 	
 	public static void main(String[] args) {
